@@ -1,2 +1,3 @@
-# bloody-badger-productions
+# Bloody Badger Productions
+
 Bloody Badger Productions
